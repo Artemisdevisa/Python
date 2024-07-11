@@ -1,1 +1,2 @@
-print(max('j', 'a'))
+nombres = ['Juan', 'pablo', 'alicia', 'carlos']
+print(min(nombres))
