@@ -1,2 +1,3 @@
-palabra = "CHING"
-print(palabra[::-1])
+palabra = "Joseph"
+lista = list(palabra)
+print("*".join(lista))
